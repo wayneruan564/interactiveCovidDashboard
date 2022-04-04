@@ -1,0 +1,70 @@
+body {
+	background-color:#23262F;
+
+}
+
+.container {
+	color:white;
+	font-style:courier;
+}
+
+#drop-down {
+	color: black;
+}
+
+.graph {
+	border: 1px solid gray;
+}
+
+.info-header {
+	font-size:15px;
+	color:white;
+}
+
+.stat {
+	font-size:30px;
+	font-weight:500;
+	color:white;
+}
+
+.stat-box {
+    margin-bottom: 10px;
+	text-align:center;
+	border:1px solid gray;
+	padding:2px;
+	background-color:#23262F;
+}
+
+.graph {
+	margin-bottom:5px;
+}
+
+#total-deaths, #new-deaths{
+	color:red;
+}
+
+#total-cases, #new-cases {
+	color:rgb(99, 110, 250);
+}
+
+#info-section {
+	margin-top:10px;
+}
+
+H1 {
+	font-size:50px;
+}
+
+#subheading {
+	font-size:15px;
+}
+
+#date {
+	font-size:12px;
+}
+
+
+.info-change {
+	font-size:15px;
+	color:gray;
+}
